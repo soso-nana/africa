@@ -24,6 +24,11 @@ img{
     width: 35rem;
     border-radius: 2rem;
     margin: .5rem;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    left: 75px;
+
 }
 
 
@@ -40,8 +45,8 @@ a{
      font-size: 16px;
      margin-inline: auto;
      max-width: 736px;
-      display: inline-block;
-      text-align: center;
+    display: inline-block;
+    text-align: center;
 }
 
 
@@ -62,3 +67,4 @@ p {
 ol, li {
     list-style-type: none;
 }
+

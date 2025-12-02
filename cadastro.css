@@ -21,6 +21,7 @@ body > div {
     padding: 25px;
     border-radius: 2rem;
     text-align: center;
+    
 }
 
 
@@ -73,6 +74,8 @@ button{
     
 }
 
-#scrollToTopBtn{
-    transition: 0.10s;
+.card{
+    display: flex;
+    justify-content: center;
+    position: relative;
 }

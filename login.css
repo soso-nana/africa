@@ -46,13 +46,6 @@ body > div {
 }
 
 
-
-img{
-    width: 35rem;
-    border-radius: 2rem;
-    
-}
-
 a{
      text-decoration: none;
      background-color: #4CAF50;
@@ -77,6 +70,9 @@ header{
 
 h1{
     text-align: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
 }
 
 form {
