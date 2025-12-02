@@ -13,7 +13,7 @@ body  div {
     background-color: #eaf6e7;
     max-width: 736px;
     margin-inline: auto;
-    margin-block: 64px;
+    margin-block: 60px;
     padding: 40px;
     border-radius: 3rem;
 }
@@ -23,23 +23,25 @@ body  div {
 img{
     width: 35rem;
     border-radius: 2rem;
-    margin: 1rem;
+    margin: .5rem;
 }
+
 
 a{
      text-decoration: none;
      background-color: #4CAF50;
      color: white;
-     padding: 10px 20px;
+     padding: 15px;
      border: none;
      text-decoration: none;
      border-radius: 1.5rem ;
-     margin-bottom: 1.5rem;
+     margin-bottom: 1rem;
      padding: .5rem;
-     font-size: 20px;
+     font-size: 16px;
      margin-inline: auto;
      max-width: 736px;
-    
+      display: inline-block;
+      text-align: center;
 }
 
 
